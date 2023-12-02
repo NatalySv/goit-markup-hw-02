@@ -39,7 +39,6 @@ h3 {
 
 /* HEADR */
 .header {
-  /* background-color: #e7e9fc; */
 }
 .header-navi {
 }
@@ -58,7 +57,6 @@ h3 {
 .navi-all-list {
 }
 .navi-list {
-  font-style: normal;
   font-weight: 500;
 }
 .address {
