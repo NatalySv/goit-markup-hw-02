@@ -13,10 +13,12 @@ a {
   text-decoration: none;
   color: #2e2f42;
 }
+
 a:hover,
 a:focus {
   color: #404bbf;
 }
+
 button:hover,
 button:focus {
   background-color: #404bbf;
@@ -31,6 +33,7 @@ h2 {
   font-weight: 700;
   font-size: 36px;
 }
+
 h3 {
   font-weight: 500;
   font-size: 20px;
